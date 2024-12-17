@@ -1,0 +1,13 @@
+C:\Users\Kiran Bharadwaj HD\source\repos\weath\weath\bin\Debug\weath.exe.config
+C:\Users\Kiran Bharadwaj HD\source\repos\weath\weath\bin\Debug\weath.exe
+C:\Users\Kiran Bharadwaj HD\source\repos\weath\weath\bin\Debug\weath.pdb
+C:\Users\Kiran Bharadwaj HD\source\repos\weath\weath\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kiran Bharadwaj HD\source\repos\weath\weath\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kiran Bharadwaj HD\source\repos\weath\weath\obj\Debug\weath.csproj.AssemblyReference.cache
+C:\Users\Kiran Bharadwaj HD\source\repos\weath\weath\obj\Debug\weath.Form1.resources
+C:\Users\Kiran Bharadwaj HD\source\repos\weath\weath\obj\Debug\weath.Properties.Resources.resources
+C:\Users\Kiran Bharadwaj HD\source\repos\weath\weath\obj\Debug\weath.csproj.GenerateResource.cache
+C:\Users\Kiran Bharadwaj HD\source\repos\weath\weath\obj\Debug\weath.csproj.CoreCompileInputs.cache
+C:\Users\Kiran Bharadwaj HD\source\repos\weath\weath\obj\Debug\weath.csproj.Up2Date
+C:\Users\Kiran Bharadwaj HD\source\repos\weath\weath\obj\Debug\weath.exe
+C:\Users\Kiran Bharadwaj HD\source\repos\weath\weath\obj\Debug\weath.pdb
